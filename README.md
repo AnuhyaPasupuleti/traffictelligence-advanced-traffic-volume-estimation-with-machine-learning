@@ -5,3 +5,6 @@ TrafficTelligence is an advanced system that uses machine learning algorithms to
 Click below to download the model file:  
 [Download best_model.pkl](https://github.com/AnuhyaPasupuleti/traffictelligence-advanced-traffic-volume-estimation-with-machine-learning/releases/download/v1.0/best_model.pkl)
 
+## Download Video Demo  
+Click below to download the video demo:  
+[Download traffic volume prediction.mp4](https://github.com/AnuhyaPasupuleti/traffictelligence-advanced-traffic-volume-estimation-with-machine-learning/releases/download/v1.0/traffic-volume-prediction-videoDemo.mp4)
