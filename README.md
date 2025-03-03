@@ -7,4 +7,5 @@ Click below to download the model file:
 
 ## Download Video Demo  
 Click below to download the video demo:  
-[Download traffic volume prediction.mp4](https://github.com/AnuhyaPasupuleti/traffictelligence-advanced-traffic-volume-estimation-with-machine-learning/Video Demo/traffic-volume-prediction-videoDemo.mp4)
+[Download traffic volume prediction.mp4]
+(https://github.com/AnuhyaPasupuleti/traffictelligence-advanced-traffic-volume-estimation-with-machine-learning/blob/main/Video%20Demo/traffic-volume-prediction-videoDemo.mp4)
